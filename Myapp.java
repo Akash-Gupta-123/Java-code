@@ -4,7 +4,7 @@ import java.applet.*;
 /*<!DOCTYPE html>
 <html>
 <head>
-    <title>Circle Shape</title>
+    <title>Addition of two numbers</title>
 </head>
 <body>
     <applet code="Myapp" width="400" height="200"> </applet>
